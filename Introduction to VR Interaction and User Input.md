@@ -109,7 +109,7 @@ Pushing a door in VR is an example of which type of interaction
 Question 11
 Why do we want to make VR interaction as close as possible to how we interact with the real world?
 
-❌ It is easy to learn (While true, this is a result of the primary goal.)
+✅ It is easy to learn (While true, this is a result of the primary goal.)
 
 ✅ It supports plausibility illusion (Making interactions realistic is key to making the user believe the virtual world is real and consistent.)
 
