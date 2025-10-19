@@ -1,0 +1,58 @@
+Here are the answers to your quiz.
+
+Question 1
+What two things does a physics object need?
+
+✅ A collider (This defines the object's physical shape so it can collide with other objects.)
+
+✅ A rigid body (This gives the object physical properties like mass and gravity, allowing the physics engine to control its movement.)
+
+❌ A keyframe
+
+❌ A state machine
+
+A physics-based object needs a shape (collider) and physical properties (rigid body) to interact realistically with the world.
+
+Question 2
+What is the relationship between an object's graphics mesh and collision mesh?
+
+✅ The collision mesh should be less detailed than the graphics mesh because collision is CPU intensive.
+
+❌ They are the same mesh.
+
+❌ They are different meshes but should be as similar as possible.
+
+❌ The collision mesh should be more detailed than the graphics mesh because the quality of the physics calculation is very depended on the details of the mesh.
+
+For performance, it's best practice to use a highly detailed mesh for what the player sees (graphics mesh) and a separate, much simpler invisible mesh for calculating physics (collision mesh).
+
+Question 3
+You are creating a character that can walk and sneak... Which of these state machine would work best?
+
+❌ state machine 1
+
+✅ state machine 2
+
+❌ state machine 3
+
+❌ state machine 4
+
+State machine 3 is correct because it properly uses the crouch and stand up animations as the transitions between the two main states: Walk and Sneak. You can't just instantly switch from walking to sneaking; you must play the transition animation first.
+
+Question 4
+You want to create an interactive robot for your VR experience. The player has buttons that they can press to trigger particular actions like waving or walking. How would you control the robot?
+
+✅ A State Machine
+
+❌ Physics
+
+A state machine is perfect for this. The robot has a set of distinct states (Idle, Waving, Walking), and player input (pressing a button) triggers the transition from one state to another.
+
+Question 5
+You want to implement a game where the player needs to pick objects up from a table and sort them into different boxes based on what they look like. How would you implement interaction with the objects?
+
+❌ A State Machine
+
+✅ Physics
+
+Physics is the best way to handle this. By giving the objects a rigid body and collider, and connecting them to the player's hand with a joint when grabbed, you create a natural and realistic interaction where objects can be picked up, moved, and collide with other surfaces.
