@@ -73,6 +73,12 @@ If both the head and controllers are position tracked, we can hold the controlle
 
 ❌ Framing
 
+Ray casting y Occlusion
+Ray casting y World-in-miniature
+Occlusion y World-in-miniature
+Occlusion y Framing	Occlusion 
+World-in-miniature y Framing
+
 Question 8
 Which of the following is true?
 
