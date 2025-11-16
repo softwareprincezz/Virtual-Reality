@@ -10,6 +10,22 @@ There is no generalised haptic feedback system.
 **Haptic is specifically about touch.
 Vibration gives the illusion of haptic feedback**
 
+X Ninguna opción seleccionada.
+
+Solo "There is no generalised haptic feedback system."
+
+Solo "Haptic is specifically about touch."
+
+Solo "Vibration gives the illusion of haptic feedback."
+
+X "There is no generalised haptic feedback system." Y "Haptic is specifically about touch."
+
+****************"There is no generalised haptic feedback system." Y "Vibration gives the illusion of haptic feedback."
+
+X "Haptic is specifically about touch." Y "Vibration gives the illusion of haptic feedback."
+
+X Todas las opciones seleccionadas.
+
 3.
 Question 3 What are the necessary conditions of plausibility illusion?
 **Events happening in VR is related personally to you.
@@ -36,7 +52,23 @@ An avatar in VR going through repetitive motions
 The level of Immersion of the same system could differ from person to person**
 Place illusion depends on sensorimotor contingency
 
-8. Question 8 What's the definition of plausibility illusion?
+X Ninguna opción seleccionada.
+
+Solo "Immersion is a way to describe the VR system."
+
+Solo "The level of Immersion of the same system could differ from person to person."
+
+Solo "Place illusion depends on sensorimotor contingency."
+
+X "Immersion is a way to describe the VR system." Y "The level of Immersion of the same system could differ from person to person."
+
+********"Immersion is a way to describe the VR system." Y "Place illusion depends on sensorimotor contingency."
+
+"The level of Immersion of the same system could differ from person to person." Y "Place illusion depends on sensorimotor contingency."
+
+X Todas las opciones seleccionadas.
+
+9. Question 8 What's the definition of plausibility illusion?
 Plausibility illusion describes the illusion when your natural sensorimotor contingency is supported by the system.
 **Plausibility illusion is the illusion that the events are happening**
 
