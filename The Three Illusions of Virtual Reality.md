@@ -6,21 +6,18 @@ Smell
 Taste
 
 2.Question 2 Which of the following is true about haptic feedback? (Not all)
-There is no generalised haptic feedback system.
-**Haptic is specifically about touch.
-Vibration gives the illusion of haptic feedback**
 
 X Ninguna opción seleccionada.
 
-Solo "There is no generalised haptic feedback system."
+XSolo "There is no generalised haptic feedback system."
 
-Solo "Haptic is specifically about touch."
+XSolo "Haptic is specifically about touch."
 
-Solo "Vibration gives the illusion of haptic feedback."
+XSolo "Vibration gives the illusion of haptic feedback."
 
 X "There is no generalised haptic feedback system." Y "Haptic is specifically about touch."
 
-****************"There is no generalised haptic feedback system." Y "Vibration gives the illusion of haptic feedback."
+****************"There is no generalised haptic feedback system." Y "Vibration gives the illusion of haptic feedback."*****
 
 X "Haptic is specifically about touch." Y "Vibration gives the illusion of haptic feedback."
 
@@ -48,8 +45,8 @@ An avatar in VR going through repetitive motions
 **In VR, when you knock on the door, someone opens the door**
 
 7. Question 7 Which of the following statements are true?X (not all)
-**Immersion is a way to describe the VR system
-The level of Immersion of the same system could differ from person to person**
+Immersion is a way to describe the VR system
+The level of Immersion of the same system could differ from person to person
 Place illusion depends on sensorimotor contingency
 
 X Ninguna opción seleccionada.
