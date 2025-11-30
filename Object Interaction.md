@@ -73,9 +73,9 @@ If both the head and controllers are position tracked, we can hold the controlle
 
 ❌ Framing
 
-Ray casting y Occlusion
-Ray casting y World-in-miniature
-Occlusion y World-in-miniature
+Ray casting y Occlusion X
+Ray casting y World-in-miniature X 
+Occlusion y World-in-miniature X
 Occlusion y Framing	Occlusion 
 World-in-miniature y Framing
 
