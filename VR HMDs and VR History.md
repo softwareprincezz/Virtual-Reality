@@ -225,7 +225,7 @@ x Opciones 1 y 3.
 
 x Opciones 2 y 3.
 
-Opciones 1, 2 y 3.
+Opciones 1, 2 y 3.*****
 
 1 point
 14.
